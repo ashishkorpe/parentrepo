@@ -1,0 +1,23 @@
+{
+  "name": "parentrepo",
+  "version": "1.0.0",
+  "description": "testing1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashishkorpe/parentrepo.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishkorpe/parentrepo/issues"
+  },
+  "homepage": "https://github.com/ashishkorpe/parentrepo#readme",
+  "dependencies": {
+    "lodashtest": "git+https://github.com/ashishkorpe/TestRepoAshish.git",
+    "testrepo": "^1.0.4"
+  }
+}
