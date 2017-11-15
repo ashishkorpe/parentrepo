@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/ashishkorpe/parentrepo#readme",
   "dependencies": {
-    "lodashtest": "git+https://github.com/ashishkorpe/TestRepoAshish.git",
-    "testrepo": "^1.0.4"
+    "lodashtest": "git+https://f05f101d6c793ee3f587b9b216f2dbcac3595ee0:x-oauth-basic@github.com/ashishkorpe/TestRepoAshish.git"
   }
 }
